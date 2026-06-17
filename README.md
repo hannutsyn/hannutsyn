@@ -46,10 +46,14 @@ I work end-to-end — from product architecture and UI systems to payments, AI p
 `MCP` · `multi-agent workflows` · `Vercel AI SDK`
 
 ### AI API
-`OpenAI` · `Gemini` · `Replicate` · `ElevenLabs` · `Images, TTS/STT, UI Text` · `TTS` 
+`OpenAI` · `Gemini` · `Replicate` · `ElevenLabs` · `Images, TTS/STT, UI`
 
 ### DevOps & Infrastructure
-`Docker` · `Vercel` · `CI/CD` · `Git` · `Sentry` 
+`Docker` · `Vercel` · `CI/CD` · `Git` · `Sentry` · `S3` · `Sentry`  
+
+### Testing
+`unit testing` · `integration testing` · `E2E testing`
+`Jest` · `Vitest` · `Playwright` · `React Testing Library` 
 
 ### Tools & Ecosystem
 `Vite` · `Storybook` · `Figma` · `FFmpeg`
