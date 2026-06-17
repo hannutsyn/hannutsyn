@@ -1,6 +1,6 @@
-# Hi, I'm Yauheni 👋
+# Hi, I'm Eugene 👋
 
-**Senior Full-Stack Engineer | 7+ years of experience**  
+**Sr Product Engineer | 7+ years of experience**  
 Building scalable web systems and AI-driven products
 
 ---
@@ -9,7 +9,7 @@ Building scalable web systems and AI-driven products
 
 I build high-performance web products that combine modern UI engineering, scalable backend architecture, and AI integrations.
 
-With 7+ years of experience, I specialize in full-stack development using **TypeScript** across **React/Next.js** and **Node.js/NestJS** ecosystems — designing systems that are not just functional, but scalable, secure, and production-ready.
+With 7+ years of experience, I specialize in full-stack development using **TypeScript** across **React/Next.js** and **Node.js/NestJS** ecosystems — designing systems that are functional, scalable and secure.
 
 I work end-to-end — from product architecture and UI systems to payments, AI pipelines, and deployment.
 
@@ -18,43 +18,51 @@ I work end-to-end — from product architecture and UI systems to payments, AI p
 ## Focus Areas
 
 - Advanced frontend systems with **React / Next.js / TypeScript**
-- Scalable backend architecture with **NestJS, Prisma, PostgreSQL**
-- AI integrations (**OpenAI, Gemini, Replicate, ElevenLabs**)
-- SaaS monetization (**Stripe, Paddle, LemonSqueezy**)
+- Scalable backend architecture with **NestJS, PostgreSQL**
+- AI integrations
 - Secure authentication & data protection
 - Performance and security best practices
+
+70% / 30% - frontend / backend
+80% / 20% - web / desktop (Electron/Tauri)
+90% / 10% - TypeScript / Python, Rust, Other
 
 ## 🛠 Tech Stack
 
 ### Core
-`TypeScript` · `React` · `Next.js` · `Node.js` · `NestJS` · `PostgreSQL` · `Prisma`
+`TypeScript` · `React` · `Next.js` · `NestJS` · `Node.js` · `PostgreSQL` · `Prisma`
 
-### Frontend
-`Tailwind CSS` · `shadcn/ui` · `Radix UI` · `MUI` · `Mantine`  
-`Redux Toolkit` · `Zustand` · `React Hook Form` · `Zod`  
-`NextAuth.js` · `SCSS` · `styled-components`
+### Frontend Core
+`TypeScript` · `React` · `Next.js`
+`Redux Toolkit` · `Zustand` · `Zod`  
+`Tailwind CSS` · `shadcn/ui` · `Radix UI` · `MUI` 
 
-### Backend & APIs
-`REST` · `tRPC` · `Express.js` · `Supabase`
+### Backend Core
+ `NestJS` · `Node.js` · `PostgreSQL` · `SQLite` · `Prisma` 
+`REST` · `tRPC` · `Express.js` · `Fastify` · `Supabase`
 
-### AI & Automation
-`OpenAI` · `Gemini` · `Replicate` · `ElevenLabs` · `n8n`
+### AI Workflows
+`Codex` · `Claude Code` · `meta-agents` · `agents` · `tools` · `evals` · `prompt engineering`
+`MCP` · `multi-agent workflows` · `Vercel AI SDK`
+
+### AI API
+`OpenAI` · `Gemini` · `Replicate` · `ElevenLabs` · `Images, TTS/STT, UI Text` · `TTS` 
 
 ### DevOps & Infrastructure
-`Docker` · `Vercel` · `CI/CD` · `Git`
+`Docker` · `Vercel` · `CI/CD` · `Git` · `Sentry` 
 
 ### Tools & Ecosystem
-`Vite` · `Storybook` · `Figma` · `FFmpeg` · `Motion Canvas`  
-`Resend` · `Stripe` · `LemonSqueezy`
+`Vite` · `Storybook` · `Figma` · `FFmpeg`
+`Motion` · `Resend` · `Stripe` · `i18n`
 
 ---
 
-## ⚡ Approach
+## Approach
 
-- Own outcomes end-to-end
-- Focus on UX and performance
+- End-to-end
+- Great UX and performance
 - Make AI reliable
-- Think in systems, not features
+- Think in systems
 - Design for clarity and scale 
 
 ---
