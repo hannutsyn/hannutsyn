@@ -65,8 +65,7 @@ I work end-to-end — from product architecture and UI systems to payments, AI p
 
 - End-to-end
 - Great UX and performance
-- Make AI reliable
-- Think in systems
+- Make AI reliable 
 - Design for clarity and scale 
 
 ---
