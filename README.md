@@ -33,16 +33,16 @@ I work end-to-end — from product architecture and UI systems to payments, AI p
 `TypeScript` · `React` · `Next.js` · `NestJS` · `Node.js` · `PostgreSQL` · `Prisma`
 
 ### Frontend Core
-`TypeScript` · `React` · `Next.js`
-`Redux Toolkit` · `Zustand` · `Zod`  
+`TypeScript` · `React` · `Next.js` · 
+`Redux Toolkit` · `Zustand` · `Zod` · 
 `Tailwind CSS` · `shadcn/ui` · `Radix UI` · `MUI` 
 
 ### Backend Core
- `NestJS` · `Node.js` · `PostgreSQL` · `SQLite` · `Prisma` 
+ `NestJS` · `Node.js` · `PostgreSQL` · `SQLite` · `Prisma` · 
 `REST` · `tRPC` · `Express.js` · `Fastify` · `Supabase`
 
 ### AI Workflows
-`Codex` · `Claude Code` · `meta-agents` · `agents` · `tools` · `evals` · `prompt engineering`
+`Codex` · `Claude Code` · `meta-agents` · `agents` · `tools` · `evals` · `prompt engineering` · 
 `MCP` · `multi-agent workflows` · `Vercel AI SDK`
 
 ### AI API
@@ -52,7 +52,7 @@ I work end-to-end — from product architecture and UI systems to payments, AI p
 `Docker` · `Vercel` · `CI/CD` · `Git` · `Sentry` · `S3` · `Sentry`  
 
 ### Testing
-`unit testing` · `integration testing` · `E2E testing`
+`unit testing` · `integration testing` · `E2E testing` · 
 `Jest` · `Vitest` · `Playwright` · `React Testing Library` 
 
 ### Tools & Ecosystem
