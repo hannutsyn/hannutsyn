@@ -68,6 +68,8 @@ I work end-to-end — from product architecture and UI systems to payments, AI p
 - Make AI reliable 
 - Design for clarity and scale 
 
+• Portfolio / product work:  `https://sharpen.ink/`
+
 ---
 
 ## 📫 Contact
