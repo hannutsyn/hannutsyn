@@ -23,9 +23,9 @@ I work end-to-end — from product architecture and UI systems to payments, AI p
 - Secure authentication & data protection
 - Performance and security best practices
 
-70% / 30% - frontend / backend
-80% / 20% - web / desktop (Electron/Tauri)
-90% / 10% - TypeScript / Python, Rust, Other
+- 70% / 30% - **frontend** / **backend**
+- 80% / 20% - **web** / **desktop** (Electron/Tauri)
+- 90% / 10% - **TypeScript** / **Python, Rust, Other**
 
 ## 🛠 Tech Stack
 
